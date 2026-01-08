@@ -88,3 +88,63 @@
   max-width: 585px;
   vertical-align: middle;
 }
+
+/* About Container */
+
+.about-container {
+  margin: 0 auto;
+  margin-top: 100px;
+  background: #fff8f3;
+  max-width: 1400px;
+  padding: 100px 150px;
+  border-radius: 15px;
+}
+
+.about h2 {
+  text-align: center;
+  color: #181818;
+  font-size: 35px;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
+
+.about p {
+  font-size: 20px;
+  line-height: 30px;
+  color: #757575;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.info {
+  display: flex;
+  justify-content: space-around;
+}
+
+.info p {
+  text-align: center;
+  font-size: 20px;
+  color: #757575;
+}
+.info h3 {
+  text-align: center;
+  font-weight: 800;
+  font-size: 20px;
+  color: #474747;
+}
+
+.what-do {
+  margin: 0 auto;
+  margin-top: 100px;
+  max-width: 1400px;
+  padding: 100px 150px;
+}
+
+.card-content {
+  max-width: 270px;
+  box-shadow: 0 10px 50px #00000011;
+}
+
+.card-content img {
+  max-width: 40px;
+}
